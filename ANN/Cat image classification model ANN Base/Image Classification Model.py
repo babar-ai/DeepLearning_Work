@@ -4,6 +4,7 @@
 import numpy as np
 import copy
 import matplotlib.pyplot as plt
+import h5
 from PIL import Image
 from scipy import ndimage
 from lr_utils import load_dataset
